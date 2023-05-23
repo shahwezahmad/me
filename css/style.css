@@ -600,6 +600,10 @@ transform: scale(1.02);
    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
+.contact__description {
+    font-size:0.8rem;    
+}
+
 .contact__box{
 background-color: #fff;
 border-radius: .5rem;
